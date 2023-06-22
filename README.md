@@ -1,7 +1,5 @@
 [プロフィール](https://fumionihei.github.io/profile/)
 
-[メモ帳](https://fumionihei.github.io/notes)
-
 [Qiita](https://qiita.com/fmfm_mdk)
 
 
